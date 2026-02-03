@@ -12,10 +12,10 @@ I'm a **Mobile App Developer** specializing in **Android development with Kotlin
 ---
 
 ## 🛠 Tech Stack
-- **Languages:** C++ ,Kotlin, Java, XML, Python , Dart , js
-- **Android:** Jetpack Compose, RecyclerView, ViewModel, Firebase, REST APIs , Flutter  
-- **Tools & Libraries:** Android Studio, Firebase, NewsAPI, USDA FoodData Central API  
-- **Other Skills:** Graphic Design, uiux Design, photoshop,  illstratour, figma 
+- **Languages:** C++,Kotlin, Java, Dart,  Python, js
+- **Android:** xml layout, Jetpack Compose, Firebase, REST APIs , Flutter  
+- **Tools & Libraries:** Android Studio, Firebase , figma , vscode, adobe photoshop  & adobe illstratour, draw.io
+- **Other Skills:** Graphic Design, uiux Design
 
 ---
 
