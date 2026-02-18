@@ -6,8 +6,8 @@ I'm a **Mobile App Developer** specializing in **Android development with Kotlin
 
 ## 🔹 About Me
 - 🎓 Computer Science graduate from MTI University  
-- 💻 Passionate about **mobile apps, AI, and software engineering**  
-- 🎨 Graphic designer with a focus on **UI/UX** and **YouTube thumbnails**   
+- 💻 Passionate about **mobile apps, AI, and software engineering**
+- 🎨 Graphic designer with a focus on **UI/UX** ,  **Social Media posts**  and **YouTube thumbnails**   
 
 ---
 
